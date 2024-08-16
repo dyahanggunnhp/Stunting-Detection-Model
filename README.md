@@ -1,5 +1,6 @@
 # Stunting-Detection-Model
 **Deskripsi**
+
 Model ini dirancang untuk mendeteksi stunting pada anak-anak berusia 18 tahun ke bawah. Model ini menggunakan tujuh variabel data untuk memprediksi risiko stunting, yaitu:
 
 - Jenis kelamin
@@ -15,4 +16,5 @@ Model ini dirancang untuk mendeteksi stunting pada anak-anak berusia 18 tahun ke
 - Memungkinkan intervensi dini
 
 **Data**
+
 Dataset yang digunakan dapat diunduh dari [tautan ini](https://www.kaggle.com/datasets/harnelia/faktor-stunting)
